@@ -1,0 +1,6 @@
+Objects/
+Listings/
+*.uvopt
+*.uvoptx
+*.uvgui*
+*.uvproj.bak
